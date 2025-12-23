@@ -1,0 +1,54 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #0f0f0f;
+  color: #ffffff;
+  text-align: center;
+}
+
+header {
+  padding: 30px;
+  background: #000000;
+}
+
+.logo {
+  width: 80px;
+}
+
+.tagline {
+  color: #00ffcc;
+}
+
+.hero {
+  padding: 40px 20px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 12px 25px;
+  background: #00ffcc;
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.features ul {
+  list-style: none;
+  padding: 0;
+}
+
+.features li {
+  padding: 8px;
+}
+
+footer {
+  padding: 20px;
+  background: #000;
+  font-size: 14px;
+}
+
+.note {
+  color: #cccccc;
+  font-size: 14px;
+}
